@@ -21,4 +21,5 @@ Constellations" Thrassos K. Oikonomou, Student Member, IEEE, Sotiris A. Tegos, S
 Dimitrios Tyrovolas, Student Member, IEEE, Panagiotis D. Diamantoulakis, Senior Member, IEEE,
 and George K. Karagiannidis, Fellow, IEEE 
 [2] https://www.redblobgames.com/grids/hexagons
+
 [3]https://justinpombrio.net/programming/2020/04/28/pixel-to-hex.html
